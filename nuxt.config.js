@@ -52,7 +52,7 @@ module.exports = {
     '@nuxtjs/auth'
   ],
   xios: {
-    baseURL: '/Nuxt-Home-Template', // Used as fallback if no runtime config is provided
+    baseURL: '/Nuxt-Home-Template ', // Used as fallback if no runtime config is provided
   },
 
 
